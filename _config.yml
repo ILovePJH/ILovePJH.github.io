@@ -16,12 +16,12 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "신민서의 사이트"
+title                    : "In my PJH"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "신민서"
-description              : "신민서의 사이트 입니다."
-url                      : "https://superozing.github.io"
+name                     : "P.J.H."
+description              : "PJH의 방문 장소 사이트 입니다."
+url                      : "https://ILovePJH.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
@@ -104,7 +104,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "신민서"
+  name             : "PJH"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "**안녕하세요.** *안녕하세요.* "
   location         : "Korea"
